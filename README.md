@@ -30,13 +30,13 @@
 
 ## **About The Project**
 
+A robot loadout created with HTML, CSS and a bit of JS.
+
 <div align="center">
 
 ![Project Preview](img/preview.png)
 
 </div>
-
-A robot loadout created with HTML, CSS and a bit of JS.
 
 <br />
 
@@ -71,7 +71,7 @@ Pedro Paulo Fagundes Cabral
 
 Email: preedroos@gmail.com
 
-Project Link: [Alura Books](https://github.com/Preedros/alura-robotron-2000)
+Project Link: [Alura Robotron 2000](https://github.com/Preedros/alura-robotron-2000)
 
 <p align="right">[ <a href="#readme-top">back to top</a> ]</p>
 
